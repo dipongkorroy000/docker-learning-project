@@ -1,0 +1,53 @@
+services:
+  mongodb:
+    image: "mongo"
+    volumes:
+      - ts-docker-db:/data/db # named volume
+    # environment:
+    #   - MONGO_INITDB_ROOT_USERNAME: root
+    #   - MONGO_INITDB_ROOT_PASSWORD: example
+
+    env_file:
+      - ./docker-with-typescript-backend/.env
+
+  ts-docker-backend-container:
+    build:
+      context: ./docker-with-typescript-backend
+      dockerfile: Dockerfile
+
+    ports:
+      - "5000:5000"
+    
+    volumes:
+      - ts-docker-logs:/app/logs # named volume
+      - ./docker-with-typescript-backend:/app # bind mount
+      - /app/node_modules # anonymous volume
+
+    env_file:
+      - ./docker-with-typescript-backend/.env
+
+    depends_on:
+      - mongodb
+    
+  ts-docker-frontend-container:
+    build: 
+      context: ./docker-with-nextjs-frontend
+      dockerfile: Dockerfile
+
+    ports:
+      - "3000:3000"
+    
+    volumes:
+      - ./docker-with-nextjs-frontend:/app
+      - /app/node_modules
+
+    env_file:
+      - ./docker-with-nextjs-frontend/.env
+
+    depends_on:
+      - ts-docker-backend-container
+
+volumes:
+  ts-docker-db:
+  ts-docker-logs:
+# auto network connect
