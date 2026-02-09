@@ -58,3 +58,14 @@ https://github-profile-trophy.vercel.app/?username=dipongkor&theme=radical&no-fr
 
 </div>
 
+📈 My Projects
+<div align="center">
+Project	Description	Tech Stack
+🏨 Tourism Platform	Full-stack booking & management system	Next.js, TypeScript, PostgreSQL, Prisma
+🛒 E-commerce Dashboard	Admin dashboard with analytics	React, Node.js, MongoDB, Chart.js
+📝 Blog CMS	Content management system	Next.js, Tailwind, Markdown
+🔐 Auth System	Secure authentication flow	NextAuth, JWT, OAuth, Redis
+</div>
+
+
+
