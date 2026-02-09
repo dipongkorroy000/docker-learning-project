@@ -14,7 +14,7 @@
 
 ## 📖 About Me
 
-<p align="center">
+<p>
   I'm a passionate Full-Stack Web Developer from Bangladesh, building scalable applications with modern tech stacks. <br>
   🔭 Currently: Building a scalable **Tourism Platform** <br>
   📚 Exploring advanced **Next.js patterns** & **PostgreSQL** <br>
@@ -37,7 +37,7 @@
 
 ### Programming Languages
 
-<table align="center">
+<table>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></td>
@@ -50,7 +50,7 @@
 
 ### Frameworks & Libraries
 
-<table align="center">
+<table>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /></td>
@@ -62,7 +62,7 @@
 
 ### Backend & Databases
 
-<table align="center">
+<table>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" /></td>
@@ -74,7 +74,7 @@
 
 ### Tools & OS
 
-<table align="center">
+<table>
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></td>
