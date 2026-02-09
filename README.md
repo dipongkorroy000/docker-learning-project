@@ -28,7 +28,7 @@ const dipongkor = {
     exploring: ["Next.js 14+ Features", "PostgreSQL Optimization"]
   }
 };
-
+```
 
 🚀 What I'm Working On
 <table> <tr> <td width="50%"> <h3 align="center">🎯 Current Focus</h3> <p align="center"> <b>Tourism Platform</b><br> Building a full-stack platform with Next.js, TypeScript, and PostgreSQL </p> </td> <td width="50%"> <h3 align="center">📚 Learning Journey</h3> <p align="center"> <b>Mastering System Design</b><br> DSA with C++ & exploring Python for backend automation </p> </td> </tr> </table>
