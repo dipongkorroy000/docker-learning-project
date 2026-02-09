@@ -68,4 +68,105 @@ Project	Description	Tech Stack
 </div>
 
 
+<div align="center">
+
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+
+<br><br>
+
+**Frameworks & Libraries**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+
+<br><br>
+
+**Databases & ORM**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+
+<br><br>
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+
+</div>
+
+
+<div align="center">
+
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+### **Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+</div>
+
+### **Frameworks & Libraries**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+</div>
+
+### **Databases & ORM**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+</div>
+
+### **Tools & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+</div>
+
+</div>
+
+<div align="center">
+
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+<p align="left">
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+</p>
+
+<p align="left">
+  <strong>Frameworks & Libraries</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+</p>
+
+<p align="left">
+  <strong>Databases & ORM</strong><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+</p>
+
+<p align="left">
+  <strong>Tools & DevOps</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+</p>
+
+</div>
+
+
+<div align="center">
+
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" /><br>
+
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" /><br>
+
+### **Databases & ORM**
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" /><br>
+
+### **Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+
+</div>
+
+
 
